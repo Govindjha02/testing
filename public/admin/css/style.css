@@ -1,0 +1,38 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 700px;
+    border: 1px solid red;
+}
+
+#login h2{
+  text-align: center;  
+}
+#dashboard{
+  background: rgb(240, 157, 3);
+  padding: 15px 0px;
+  }
+#dashboard button{
+  float: right;
+}
+#dashboard h2{
+  color: white;
+}
+#mid h2{
+  text-align: center;
+}
+#mid table tr td{
+  font-size: 10px;
+}
+#mid table tr th{
+  font-size: 12px;
+}
+#footer{
+  background: rgb(240, 157, 3);
+
+
+}
+#footer h2{
+  text-align: center;
+  color: white;
+}

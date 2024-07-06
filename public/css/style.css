@@ -1,0 +1,107 @@
+#bannernew h2{
+    text-align: center;
+    }
+#bannernew p{
+    text-align: justify;
+ }   
+#bannernew{
+    padding: 30px 0px;
+ }
+#header{
+    background: rgb(240, 157, 3) !important;
+    padding: 10px 0px;
+}
+#header img{
+width: 100px;
+box-shadow: 10px 10px black;
+}
+#header .bi-list{ 
+color: white;
+font-size: 30px;
+}
+#header ul li a{
+    color: white;
+}
+#header .container-fluid{
+    padding-left: 0px;
+    
+}
+#banner{
+    background: rgb(240, 157, 3);
+    padding-top: 40px;
+}
+#banner #banner-img{
+    width: 180px;
+    border-radius: 100px;
+}
+#banner img{
+    width: 100%;
+}
+#banner h4{
+    color: azure;
+    text-align: center;
+}
+#banner p{
+    text-align: justify ;
+    color: azure;
+}
+#testi h2{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#testi img{
+    width: 100px;
+    border-radius: 50px;
+}
+#testi p{
+    text-align: justify;
+}
+#testi h4{
+    font-size: 13px;
+    text-transform: uppercase;
+}
+#testi {
+    padding: 15px;
+}
+
+#footer{
+    background: rgb(240, 157, 3) !important;
+}
+#footer h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#footer p{
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+   
+    text-align: justify;
+
+}
+#footer span{
+    font-size: 20px;
+    color: white;
+    
+    
+}
+#footer table tr {
+    display: flex;
+}
+#footer img{
+    width: 100px;
+    margin-bottom: 30px;
+}
+#footer #border-img{
+    width: 100%;
+}
+#Service img{
+width: 100px;
+}
+#Service{
+    padding: 15px;
+    text-align: justify;
+}
+#Service h2{
+text-align: center;
+}
